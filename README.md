@@ -1,0 +1,1 @@
+A customer churn analysis dashboard showcasing churn rates, key reasons for churn (competitors, pricing, dissatisfaction), demographic patterns, contract types, payment methods, and usage behavior insights.
